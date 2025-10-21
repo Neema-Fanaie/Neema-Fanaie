@@ -46,6 +46,3 @@
 
 ---
 
-## ⚡ Fun Fact
-
-When I’m not coding or studying, I enjoy exploring new areas of technology and finding creative ways to connect what I learn in class to real-world applications!

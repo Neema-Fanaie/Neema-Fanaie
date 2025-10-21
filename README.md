@@ -20,12 +20,6 @@
 
 ---
 
-## 🌟 Featured Project
-
-- **Web Portfolio** (ongoing): Showcasing my journey, projects, and skills. Stay tuned for updates!
-
----
-
 ## 📚 Currently Learning
 
 - Verilog for digital design and FPGA development

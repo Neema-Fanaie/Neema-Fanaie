@@ -15,7 +15,6 @@
 ## 🛠️ Skills
 
 - **Programming:** Python, HTML, CSS, JavaScript
-- **Learning:** Verilog, C, C++
 - **Interests:** Embedded systems, hardware design, and multidisciplinary engineering challenges
 
 ---

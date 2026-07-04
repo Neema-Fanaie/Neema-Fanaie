@@ -1,6 +1,6 @@
 # Hi there, I'm Neema Fanaie! 👋
 
-🎓 **3rd Year Electrical and Mechanical Engineering Student at the University of Edinburgh**
+🎓 **4th Year Electrical and Mechanical Engineering Student at the University of Edinburgh**
 
 ---
 
